@@ -1,6 +1,6 @@
 <h1 style="color:green; font-family:Courier" align="center">Hi 👋, I'm Ahmed Safwat</h1>
 
-<h3 style="color:darkblue; text-shadow: 1px 1px 2px darkblue; font-family:Courier" align="center"> Front-End Developer </h3>
+<h3 align="center"> Front-End Developer </h3>
 <hr/>
 
 <p align="center">
