@@ -1,6 +1,6 @@
-<div>
-    <img width="400px" style="margin:auto;display:block;" src="./img/programmer-fly.gif"/>
-</div>
+<p align="center">
+    <img width="400px" src="./img/programmer-fly.gif"/>
+</p>
 <h1 style="color:green; font-family:Courier" align="center">Hi 👋, I'm Ahmed Safwat</h1>
 
 <h3 style="color:darkblue; text-shadow: 1px 1px 2px darkblue; font-family:Courier" align="center"> Front-End Developer </h3>
